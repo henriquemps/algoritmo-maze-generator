@@ -14,4 +14,4 @@ Informações em português: https://pt.qwe.wiki/wiki/Maze_generation_algorithm
 Método usado: **Recursive backtracker**
 
 # Print exemplo
-![Image of Yaktocat](https://github.com/henriquecode/algoritmo-maze-generator/blob/master/maze-generator.png)
+![Labirinto](https://github.com/henriquecode/algoritmo-maze-generator/blob/master/maze-generator.png)
