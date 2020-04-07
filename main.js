@@ -1,5 +1,6 @@
 /**
  * Aplicação de algoritmo 'Maze Generator' para estudo
+ * 
  */
 
 var cols, rows;
