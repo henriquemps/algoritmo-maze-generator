@@ -1,3 +1,7 @@
+/**
+ * Aplicação de algoritmo 'Maze Generator' para estudo
+ */
+
 var cols, rows;
 var w = 10;
 var grid = [];
@@ -5,7 +9,9 @@ var current;
 var stack = [];
 
 function setup() {
+  
   createCanvas(400, 400);
+
   cols = floor(height / w);
   rows = floor(width / w);
 
