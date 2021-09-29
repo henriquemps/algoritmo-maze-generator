@@ -1,5 +1,5 @@
 # Algoritmo Maze Generator
-Aplicação do algoritmo maze generator em JS com biblioteca p5js
+Aplicação do algoritmo maze generator em JS com biblioteca p5js para facilitar o trabalho com canvas
 
 **P5js**: https://p5js.org/
 
