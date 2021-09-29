@@ -1,9 +1,7 @@
 # Algoritmo Maze Generator
-Aplicação do algoritmo maze generator em JS com p5js e Lua com Love2D
+Aplicação do algoritmo maze generator em JS com biblioteca p5js
 
 **P5js**: https://p5js.org/
-
-**Love2D**: https://love2d.org/
 
 ---
 
